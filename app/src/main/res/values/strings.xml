@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WSkr</string>
+    <string name="Погода">Погода</string>
+    <string name="Call">Введите текст</string>
+    <string name="TextView2">text</string>
+    <string name="Vvod">Город</string>
+</resources>
